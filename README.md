@@ -53,21 +53,28 @@ Using historical data from 2020 to 2024, the project conducts a comprehensive co
 - **GRU** emerged as the best Deep Learning model (**MAPE 0.65%**), outperforming LSTM and RNN in stability.
 - Complex hybrid models (CNN-Transformer) showed higher instability compared to simpler statistical approaches for this specific time-series data.
 
+## 5. Tech Stack
 
-## 5. Academic Information
+- **Programming:** Python
+- **Libraries:** Pandas, NumPy, Statsmodels, Scikit-learn
+- **Deep Learning:** TensorFlow (Keras)
+- **Visualization:** Matplotlib, Seaborn
+- **Environment:** Jupyter Notebook
+
+## 6. Academic Information
 
 - **University:** University of Information Technology – VNU-HCM
 - **Faculty:** Information Systems
 - **Course:** Business Data Analysis (IS403)
 - **Instructor:** M.Sc. Dương Phi Long
 
-## 6. My Contribution
+## 7. My Contribution
 
 - Contributed to data collection and preprocessing.
 - Implementation of RNN, LSTM, and GRU models.
 - Primarily responsible for the project report and presentation slides.
 
-## 7. Contact
+## 8. Contact
 **Huỳnh Ngọc Trang**
 - **Email:** hntrang04@gmail.com
 - **LinkedIn:** [Trang Huynh Ngoc](https://www.linkedin.com/in/trang-huynh-ngoc-18128b353/)
