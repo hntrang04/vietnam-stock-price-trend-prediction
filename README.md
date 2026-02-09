@@ -1,9 +1,11 @@
 # Vietnam-Stock-Price-Trend-Prediction
+<!-- 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20Keras-red)
 ![Time Series](https://img.shields.io/badge/Task-Time%20Series%20Forecasting-brightgreen)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-Completed-success) 
+-->
 
 **Applying Machine Learning Algorithms to Predict Stock Price Trends in the Stock Market – The Case of Vietnam**
 
