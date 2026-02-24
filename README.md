@@ -1,4 +1,4 @@
-# Vietnam-Stock-Price-Trend-Prediction
+# Vietnam Stock Price Trend Prediction
 <!-- 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
